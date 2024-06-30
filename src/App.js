@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <div className="App">
-      Home Page
+      Home Page V1
     </div>
   );
 }
